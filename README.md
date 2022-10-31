@@ -1,0 +1,1 @@
+This repository is migrated to [https://github.com/ZhijiaCHEN/Web-Record-Extraction-with-Invariants](https://github.com/ZhijiaCHEN/Web-Record-Extraction-with-Invariants).

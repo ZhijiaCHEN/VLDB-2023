@@ -1,3 +1,0 @@
-lxml
-matplotlib
-suffix-tree
